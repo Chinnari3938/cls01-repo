@@ -1,2 +1,2 @@
 create first github file
-added some new data in first github file
+added some new data in it
