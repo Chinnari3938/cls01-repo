@@ -1,2 +1,2 @@
-create second github file
-this is chinnari 
+Create a github file
+This is chinnari 
